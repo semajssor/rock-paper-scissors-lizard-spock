@@ -105,7 +105,7 @@ h2 {
     margin: 50px 0 25px 25px;
   }
 
-  .far {
+  .fa-regular{
     margin-right: 20px;
   }
 
@@ -119,7 +119,7 @@ h2 {
 @media screen and (max-width: 376px) {
   .game-container {
     height: 550px;
-    
+    width: 95%;
   }
 
   h1 {
@@ -128,9 +128,10 @@ h2 {
 
   .player-container {
     margin: 43px 0 25px 20px;
+    
   }
 
-  .far {
+  .fa-regular {
     font-size: 43px;
   }
 
